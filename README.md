@@ -25,8 +25,9 @@ Essa é a primeira parte do meu projeto de **Portfólio Pessoal** para a P1.
 - **CSS3**  
 - **Google Fonts**  
 - **Flexbox**  
-- **FontAwesome**  
-
+- **FontAwesome**
+- **Layout resposivo com Flexbox**
+- **Ícones feitos no Medibang Paint por mim**
 ---
 
 ## 📸 Prévia do projeto  

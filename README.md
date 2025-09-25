@@ -13,7 +13,9 @@ Essa é a primeira parte do meu projeto de **Portfólio Pessoal** para a P1.
 
 1. Habilite o **Smooth Scrolling** nas flags do navegador:  
    - **Chrome:** `chrome://flags/`  
-   - **Firefox:** `about:config`  
+   - **Firefox:** `about:config`
+   - **Opera:** `opera://flags/`
+   - **Edge:** `edge://flags`
 
 2. Baixe o repositório e abra o arquivo `index.html` no navegador.  
 

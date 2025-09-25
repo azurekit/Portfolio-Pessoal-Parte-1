@@ -633,7 +633,7 @@ li {
 }
 
 .galeria img {
-    max-width: 400px;
+    max-width: 350px;
     display: block;   
 }
 
@@ -819,4 +819,5 @@ footer {
 
 #projetos {
     scroll-margin-top: 30px;
+
 }

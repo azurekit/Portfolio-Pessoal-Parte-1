@@ -32,7 +32,7 @@ Essa é a primeira parte do meu projeto de **Portfólio Pessoal** para a P1.
 ## 📸 Prévia do projeto  
 
 ### Screenshot  
-![Screenshot do Portfólio](./assets/screenshot1.png)  
+![Screenshot do Portfólio](./imagens/Screenshot1.png)  
 
 ---
 
